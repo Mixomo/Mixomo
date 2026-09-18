@@ -16,6 +16,9 @@ A collection of focused Windows interfaces that turn complex AI models and resea
 
 ### TTS
 
+**[XTTS-v2 Easy GUI](https://github.com/Mixomo/XTTS-V2-Easy-GUI)**
+Windows-first Gradio GUI for Coqui XTTS-v2 with native inference, single/multi-reference Voice Library, language-aware chunking, project-based dataset preparation, automatic pronunciation/BPE enhancement, full GPT-encoder fine-tuning, prompted evaluation, TensorBoard monitoring and completion feedback.
+
 **[CosyVoice3-Easy-GUI](https://github.com/Mixomo/CosyVoice3-Easy-GUI)**
 A full Windows workflow for CosyVoice 3, combining zero-shot cloning, cross-lingual and instruct synthesis, reusable voice/instruction libraries, dialogue generation and experimental LoRA training.
 
