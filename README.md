@@ -16,6 +16,9 @@ A collection of focused Windows interfaces that turn complex AI models and resea
 
 ### TTS
 
+**[Qwen TTS Easy GUI](https://github.com/Mixomo/Qwen_TTS_Easy_GUI)**
+A Windows-first application for Qwen3-TTS. It combines CustomVoice, VoiceDesign, zero-shot voice cloning, reusable Voice Library entries, single and multiple-reference conditioning, Dialogue Builder, Faster-Whisper transcription, project-based dataset preparation, Qwen-compatible Full SFT, PEFT/LoRA inference and CUDA-graph acceleration in one Gradio application.
+
 **[XTTS-v2 Easy GUI](https://github.com/Mixomo/XTTS-V2-Easy-GUI)**
 Windows-first Gradio GUI for Coqui XTTS-v2 with native inference, single/multi-reference Voice Library, language-aware chunking, project-based dataset preparation, automatic pronunciation/BPE enhancement, full GPT-encoder fine-tuning, prompted evaluation, TensorBoard monitoring and completion feedback.
 
