@@ -76,6 +76,9 @@ A Windows VST3 FM synthesizer rack inspired by the Yamaha TX816, combining multi
 **[CalCurve](https://github.com/Mixomo/CalCurve)**
 A headphone calibration and equalization tool built around measurement data, target curves and correction filters, designed for flexible multi-stage headphone correction workflows.
 
+**[VST3 Bridge for AIMP](https://github.com/Mixomo/VST3_Bridge_For_AIMP/tree/main)**
+VST3 Bridge for AIMP is a Windows DSP plug-in that hosts a single VST3 effect inside AIMP's DSP pipeline. It is intended for users who want to run a selected VST3 processor while playing audio through AIMP, including ASIO output.
+
 ---
 
 ## ✦ WINDOWS APPS
