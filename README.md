@@ -16,7 +16,7 @@ A collection of focused Windows interfaces that turn complex AI models and resea
 
 ### TTS
 
-**[Fish Audio Drama 3](https://github.com/Mixomo/Fish_Drama_3_Easy_GUI)**
+**[Fish Audio Drama 3 Easy GUI](https://github.com/Mixomo/Fish_Drama_3_Easy_GUI)**
 Windows GUI for generating speech with Fish Audio Drama 3. It provides Single Inference, Dialogue Builder, saved voice references, optional reference transcription, and configurable text chunking. Inference uses CUDA or Vulkan GPU runtimes.
 
 **[Qwen TTS Easy GUI](https://github.com/Mixomo/Qwen_TTS_Easy_GUI)**
